@@ -1,5 +1,6 @@
 This project is a simple implementation of a ball and a paddle game, by using openCV and pygame of python.
 <br>
+<br>
 Features of the game:
 1. You can move the pedal below with the help of some specifically coloured objects (some shades of blue and green, as initially added into the code).
 2. The pedal will move at that specific position where the coloured object is detected.
